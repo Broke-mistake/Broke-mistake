@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Broke-mistake
+- 👋 Hi, I’m @Broken-mistake
 - 👀 I’m interested in programming, physics, science, math and learning 
 - 🌱 I’m currently learning python , highschool physics 
 
